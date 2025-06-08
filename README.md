@@ -18,7 +18,7 @@ This website is built using **React.js**, **Vite**, and **TailwindCSS**. It is d
 To run this project locally, follow these steps:
 ```sh
 # Clone this repository
-git clone https://github.com/yourusername/book-it-now.git
+git clone https://github.com/yourusername/bookITnow.git
 
 # Navigate to the project folder
 cd book-it-now
